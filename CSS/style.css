@@ -87,6 +87,7 @@ button:hover button:focus
 .profile_portrait
 {
   width: 250px;
+  
   height: 230px;
   margin-right: 40px;
   float: left;
